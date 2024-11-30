@@ -68,12 +68,12 @@ This web application provides an integrated platform combining two powerful tran
 
 1. Clone repository:
 ```bash
-git clone https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102.git
+git clone https://github.com/gabriela-bezerra/Multilingual-Translation-Platform.git
 ```
 
 2. Navigate to project:
 ```bash
-cd Bootcamp-Microsoft-Certification-Challenge--1-AI_102
+cd Multilingual-Translation-Platform
 ```
 
 3. Install Poetry:
