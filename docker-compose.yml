@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  tradutor-app:
+    build: .
+    container_name: tradutor-multifuncional
+    ports:
+      - '8501:8501'
+    env_file:
+      - ../../.env # Caminho relativo ao arquivo .env
+    volumes:
+      - ./src:/app/src # Hot-reload para desenvolvimento
+    restart: unless-stopped
