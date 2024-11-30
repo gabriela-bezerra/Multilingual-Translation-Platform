@@ -38,20 +38,6 @@ This web application provides an integrated platform combining two powerful tran
 - beautifulsoup4 for web content extraction
 - python-dotenv for environment configuration
 
-## Project Structure
-
-```
-./
-├── data/               # Project data storage
-├── img/               # Image assets
-├── notebook/          # Development notebooks
-├── src/               # Source code
-│   └── app.py         # Main application
-├── Dockerfile         # Container configuration
-├── docker-compose.yml # Docker orchestration
-├── requirements.txt   # Project dependencies
-└── README.md         # Documentation
-```
 
 ## Prerequisites
 
