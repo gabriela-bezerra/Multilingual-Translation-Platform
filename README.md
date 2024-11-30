@@ -61,7 +61,6 @@ This web application provides an integrated platform combining two powerful tran
   - Azure OpenAI
   - Azure Translator
 - Docker (optional)
-- Setup guide available [here](link-to-guide)
 
 ## Deployment Options
 
